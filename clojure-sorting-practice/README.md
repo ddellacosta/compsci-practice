@@ -1,6 +1,6 @@
 ## Clojure Sorting Practice
 
-Work in progress.  Reviewing sorting algorithms by implementing them in Clojure.  Basic algorithms mostly taken from (Introduction to Algorithms)[http://mitpress.mit.edu/books/introduction-algorithms].
+Work in progress.  Reviewing sorting algorithms by implementing them in Clojure.  Basic algorithms mostly taken from [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms).
 
 Very rough, not intended for production, use at your own risk, etc. etc.
 
